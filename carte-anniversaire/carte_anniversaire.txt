@@ -1,0 +1,17 @@
+Objectif : Réaliser une carte d'anniversaire
+Langages utilisés : HTML, CSS, JavaScript (jQuery)
+
+Déroulement des tâches:
+- Dans le fichier HTML : 
+	- Liens vers les fichiers styles.css, anniversaire.js, jquery-3.3.1.js
+	- le message et les 3 paragraphes sont intégrés chacun dans une balise div possédant un id.
+
+- Dans le fichier css : 
+	- positionnement et mise en forme des éléments
+	- Ajout de la police 'Indie Flower'
+
+- Dans le fichier jquery : 
+	-Effet hide() sur les 3 paragraphes pour qu'ils ne soient pas visibles
+	- Affichage successif des paragraphes avec la méthode click
+	- Ajout de l'élément audio
+	- Déclenchement du son et modification du background 

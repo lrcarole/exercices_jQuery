@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'Indie Flower';
+	src: url('../font/Indie_Flower/IndieFlower.ttf');
+}
+
+body {
+	background-color: #BBE7D6;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
+
+div {
+	width: 300px;
+	padding: 20px;
+	height: auto;
+	background-color: #fff;
+	margin:  50px auto;
+	border: 2px solid #000;
+	border-radius: 10px;
+}
+h1 {
+	display: inline-block;
+}
+
+span {
+	background-color: #BBE7D6;
+	color: #fff;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#div2 {
+	background-color: #FCEDB6;
+}
+
+#div3 {
+	background-color: #B2ECF7;
+}
+
+#div4 {
+	background-color: #FCC197;
+}
